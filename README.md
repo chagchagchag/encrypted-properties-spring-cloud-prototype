@@ -1,0 +1,1 @@
+# encrypted-properties-spring-cloud-prototype
